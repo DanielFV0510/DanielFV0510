@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello 👋
 
 
 
 - 🔭 I’m currently working on Sofware Developer
-- 🌱 I’m currently learning Laravel and Vue
+- 🌱 I’m developer PHP
+-    I’m developer Framework Laravel
+-    I'm developer Framework Vue.js
 
 
