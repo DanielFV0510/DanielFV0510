@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Willington Daniel Farro Vela  
 
-💻 **Software Developer | PHP | Laravel | Vue.js | Node.js**
+💻 **Backend Developer at Alegra | Node.js · TypeScript · AWS Serverless · AI Integrations**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielFV0510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -13,24 +13,27 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Software Developer**, building efficient and scalable web applications.  
-- 🌱 Experienced in **PHP** and **Node.js**, specialized in **Laravel Framework** for backend development.  
-- ⚙️ Skilled in **Vue.js** and **Inertia.js** for modern, responsive, and dynamic interfaces.  
-- 🧩 Passionate about **modular and hexagonal architectures**, **clean code**, and **microservices**.  
-- ☁️ Exploring **AWS** (EC2, S3) and **Docker** for containerized deployments.  
-- 💡 Always learning and experimenting with new technologies to improve performance and scalability.  
+- 🔭 Backend Developer at **Alegra**, contributing to APIs and services for contact management in Latin America.
+- ⚙️ Working with **Node.js, TypeScript and AWS serverless services**, with a focus on maintainability, compatibility and automated testing.
+- 🧩 Contributing to **MCP tools** that connect AI agents with business capabilities.
+- 🧪 Building and strengthening **AI agent evaluations with Phoenix**, including regression scenarios and trace validation.
+- 🌎 Improving contact updates and regional validations while preserving existing data.
+- 💻 Bringing fullstack experience with **PHP, Laravel, Vue.js and Inertia.js**.
+- 🛠️ Interested in modular and hexagonal architectures, reliable integrations and practical automation.
 
 ---
 
 ### 🧰 Tech Stack
 
 | Category | Tools |
-|-----------|--------|
-| **Backend** | PHP · Laravel · Node.js · MySQL · REST APIs |
+|----------|-------|
+| **Backend** | Node.js · TypeScript · NestJS · PHP · Laravel · REST APIs |
+| **Cloud** | AWS Lambda · SNS · SQS · EC2 · S3 · RDS |
+| **AI Integrations & Evaluation** | MCP · Phoenix · Agent evaluations · Trace validation |
 | **Frontend** | Vue.js · Inertia.js · Tailwind CSS |
-| **Architectures** | Hexagonal · Modular · Microservices |
-| **DevOps / Tools** | Docker · Git · GitHub Actions · VS Code |
-| **Cloud** | AWS (EC2, S3) |
+| **Data** | MySQL · MongoDB |
+| **Architecture & Quality** | Modular · Hexagonal · Microservices · Unit & integration testing |
+| **DevOps / Tools** | Docker · Git · GitHub Actions |
 
 ---
 
@@ -59,3 +62,4 @@
 ---
 
 ✨ *"Code with purpose, build with passion."*
+
